@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeial-react-app/static/css/main.fc0d7fbd.css",
+    "main.js": "/codeial-react-app/static/js/main.70333b24.js",
+    "index.html": "/codeial-react-app/index.html",
+    "main.fc0d7fbd.css.map": "/codeial-react-app/static/css/main.fc0d7fbd.css.map",
+    "main.70333b24.js.map": "/codeial-react-app/static/js/main.70333b24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0d7fbd.css",
+    "static/js/main.70333b24.js"
+  ]
+}
